@@ -9,14 +9,14 @@
 Можно добавлять свои магазины в базу данных сервиса. Параметры для мужчин и для женщин должны быть разделены.
 
 ## Демонстрация работы приложения
-Меню выбора действия
+###### Меню выбора действия
 <img src="https://user-images.githubusercontent.com/43295090/167636200-ea44b5e9-3702-4d72-b74c-716b5d972900.png" width="300">
 
-Добавление своего магазина
+###### Добавление своего магазина
 <img src="https://user-images.githubusercontent.com/43295090/167636766-41c21e0a-cc7b-4216-9800-cb9d0baa9648.png" width="300">
 
-Указание параметров тела
-<img src="https://user-images.githubusercontent.com/43295090/167636200-b2e78962-f78a-41bb-9299-8134edfad0f9.png" width="300">
+###### Указание параметров тела
+<img src="https://user-images.githubusercontent.com/43295090/167636501-b2e78962-f78a-41bb-9299-8134edfad0f9.png" width="300">
 
-Результат
-<img src="https://user-images.githubusercontent.com/43295090/167636200-6dad0e91-1ce9-41b9-ae83-3d3dc1007494.png" width="300">
+###### Результат
+<img src="https://user-images.githubusercontent.com/43295090/167636907-6dad0e91-1ce9-41b9-ae83-3d3dc1007494.png" width="300">
