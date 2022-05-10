@@ -10,7 +10,7 @@
 
 ## Демонстрация работы приложения
 
-![image](https://user-images.githubusercontent.com/43295090/167636200-ea44b5e9-3702-4d72-b74c-716b5d972900.png "Меню выбора действия" =x300)
-![image](https://user-images.githubusercontent.com/43295090/167636766-41c21e0a-cc7b-4216-9800-cb9d0baa9648.png "Добавление своего магазина" =x300)
-![image](https://user-images.githubusercontent.com/43295090/167636501-b2e78962-f78a-41bb-9299-8134edfad0f9.png "Указание параметров тела" =x300)
-![image](https://user-images.githubusercontent.com/43295090/167636907-6dad0e91-1ce9-41b9-ae83-3d3dc1007494.png "Результат" =x300)
+![image](https://user-images.githubusercontent.com/43295090/167636200-ea44b5e9-3702-4d72-b74c-716b5d972900.png "Меню выбора действия")
+![image](https://user-images.githubusercontent.com/43295090/167636766-41c21e0a-cc7b-4216-9800-cb9d0baa9648.png "Добавление своего магазина")
+![image](https://user-images.githubusercontent.com/43295090/167636501-b2e78962-f78a-41bb-9299-8134edfad0f9.png "Указание параметров тела")
+![image](https://user-images.githubusercontent.com/43295090/167636907-6dad0e91-1ce9-41b9-ae83-3d3dc1007494.png "Результат")
